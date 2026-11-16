@@ -1,0 +1,54 @@
+{
+  "brand": "Voxelmania",
+  "version": 9,
+  "exportedAt": "2026-11-16T11:48:49.077Z",
+  "dimensions": {
+    "dimS": [
+      "6",
+      "6",
+      "6"
+    ],
+    "dimM": [
+      "12",
+      "6",
+      "8"
+    ],
+    "dimL": [
+      "12",
+      "11",
+      "18"
+    ],
+    "dimXL": [
+      "20",
+      "11",
+      "18"
+    ]
+  },
+  "settings": {
+    "tierS_unp": "12",
+    "tierS_pnt": "24",
+    "tierM_unp": "29",
+    "tierM_pnt": "49",
+    "tierL_unp": "39",
+    "tierL_pnt": "390",
+    "tierXL_unp": "59",
+    "tierXL_pnt": "149",
+    "stdMatCostKg": "35",
+    "stdMachineRate": "2.5",
+    "stdLaborRate": "22",
+    "stdAddonAssembly": "8",
+    "stdAddonBase": "12",
+    "stdPackagingCost": "3.50",
+    "stdFilePrep": "10"
+  },
+  "fields": {
+    "quoteNumber": "VM-2026-001",
+    "quoteDate": "2026-11-16",
+    "quoteExpiry": "2026-12-01",
+    "clientName": "",
+    "clientContact": "",
+    "clientAddress": "",
+    "quoteNotes": "Scala verificata, resinatura ad alta risoluzione, imballo antiurto."
+  },
+  "extraItems": []
+}
